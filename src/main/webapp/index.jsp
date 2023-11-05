@@ -223,8 +223,8 @@
           <div class="item">
             <p>What position are you applying for?<span class="required">*</span></p>
             <select required>
-              <option value="1">Job 1</option>
-              <option value="2">Job 2</option>
+              <option value="1">Devops Architect</option>
+              <option value="2">SRE</option>
               <option value="3">Job 3</option>
               <option value="4">Job 4</option>
               <option value="5">Job 5</option>
